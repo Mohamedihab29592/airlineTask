@@ -1,14 +1,9 @@
 import 'package:air_line_task/features/presentation/controllers/favCubit/fav_state.dart';
-import 'package:air_line_task/features/presentation/screens/airLineDetails.dart';
-import 'package:air_line_task/features/presentation/widgets/mainWidget.dart';
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:shimmer/shimmer.dart';
 
 import '../../../core/utilies/appStrings.dart';
 import '../../../core/utilies/colors.dart';
-import '../../../core/utilies/constants.dart';
 import '../../../core/utilies/values_manger.dart';
 import '../controllers/favCubit/fav_cubit.dart';
 import '../widgets/favWidget.dart';
