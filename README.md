@@ -1,6 +1,6 @@
 # air_line_task
 
-A new Flutter project.
+A flutter project that manage large number of data retruned from API while Scrolling.
 
 ## Getting Started
 
